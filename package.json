@@ -1,5 +1,5 @@
 {
-  "name": "url-parse",
+  "name": "fl-url-parse",
   "version": "1.0.0",
   "description": "parse browser url",
   "main": "index.js",
