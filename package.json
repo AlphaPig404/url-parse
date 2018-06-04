@@ -1,0 +1,24 @@
+{
+  "name": "url-parse",
+  "version": "1.0.0",
+  "description": "parse browser url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaPig404/url-parse.git"
+  },
+  "keywords": [
+    "util",
+    "url",
+    "parse"
+  ],
+  "author": "Nuluf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphaPig404/url-parse/issues"
+  },
+  "homepage": "https://github.com/AlphaPig404/url-parse#readme"
+}
